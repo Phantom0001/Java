@@ -1,5 +1,5 @@
 /**
- *  Name: David Phan
+ * Name: David Phan
  *
  * Project/Class Description:
  * This program will print out Hello, World.
