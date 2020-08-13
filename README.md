@@ -24,3 +24,13 @@ To use the program in a java IDE remove the "#_", Since Java does not like that.
 18.
 19.
 20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
